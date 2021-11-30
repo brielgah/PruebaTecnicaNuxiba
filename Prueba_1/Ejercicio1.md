@@ -27,9 +27,52 @@ Para la realización de la API se utilizo el framework  ASP.NET WebAPI y se real
 # Pruebas
 Como se menciono anteriormente, se realizaron pruebas con Swagger y POSTMAN para verificar el funcionamiento de la API. A continuación, se muestran capturas de las respectivas solicitudes
 ## Obtener usuarios
+
 ### Peticiones en Swagger
 ![usuarios](imagenes/usuarios.png)
 ![usuarios2](imagenes/usuarios2.png)
-![usuarios3](imagenes/usuarios3.png)
+
 ### Peticiones en POSTMAN
-![usuarios4](imagenes/usuarios4.png)
+![usuarios3](imagenes/usuarios3.png)
+
+## Obtener usuario
+
+### Peticiones en Swagger
+![usuario](imagenes/usuario.png)
+![usuarios](imagenes/usuarios.png)
+En la siguiente imagen se realizó una petición a un usuario que no existe.
+![usuarios](imagenes/usuario3.png)
+
+### Peticiones en POSTMAN
+![usuarios](imagenes/usuario4.png)
+
+## Obtener posts
+
+### Peticiones en Swagger
+![post](imagenes/post.png)
+![post2](imagenes/post2.png)
+![post3](imagenes/post3.png)
+
+
+### Peticiones en POSTMAN
+![post4](imagenes/post4.png)
+![post5](imagenes/post5.png)
+
+## Obtener tareas
+
+### Peticiones en Swagger
+![todo](imagenes/todo.png)
+![todo2](imagenes/todo2.png)
+
+### Peticiones en POSTMAN
+![todo3](imagenes/todo3.png)
+![todo4](imagenes/todo4.png)
+
+## Crear tarea
+
+### Peticiones en Swagger
+![postTodo](imagenes/postTodo.png)
+![postTodo2](imagenes/postTodo2.png)
+
+### Peticiones en POSTMAN
+![postTodo3](imagenes/postTodo3.png)

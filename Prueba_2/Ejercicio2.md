@@ -34,7 +34,7 @@ SELECT * from logDial WHERE MONTH(fechaDeLlamada)=2 AND tipoDeLlamada="CEL LD";
 
 ---
 
-![Query1](\imagenes\Query1.png)
+![image](https://user-images.githubusercontent.com/23706678/144101477-ca03ad57-00c7-4562-9b9d-b8ce40fa07e1.png)
 
 # Query 2
 
@@ -47,8 +47,7 @@ SELECT AVG(tiempoDialogo) FROM logDial WHERE MONTH(fechaDeLlamada)=2 AND tipoDeL
 
 ---
 
-![Query2](\imagenes\Query2.png)
-
+![image](https://user-images.githubusercontent.com/23706678/144101444-c6457a04-617c-48d0-b17a-70934a6f3aa8.png)
 
 # Query 3
 
@@ -89,4 +88,4 @@ SELECT tiempoDialogo/60,(tiempoDialogo/60)*costo FROM logDial l LEFT JOIN costos
 
 ---
 
-![Query3](\imagenes\Query3.png)
+![image](https://user-images.githubusercontent.com/23706678/144101536-a9f0438b-68be-45a9-9d1e-8e6e7703c4fc.png)

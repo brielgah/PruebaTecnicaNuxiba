@@ -49,7 +49,7 @@ En la siguiente imagen se realizó una petición a un usuario que no existe.
 ## Obtener posts
 
 ### Peticiones en Swagger
-![post](imagenes/post.png)
+![post](imagenes/post1.png)
 ![post2](imagenes/post2.png)
 ![post3](imagenes/post3.png)
 
